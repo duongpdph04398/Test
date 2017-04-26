@@ -78,6 +78,7 @@
 					<div class="col-md-6 fadein scaleInv anim_1">
 						<div class="fadein scaleInv anim_2">
 							<h1 class="carouselText1 animated fadeInUpBig">Chào mừng đến với <span class="colortext">DTL PHONE</span></h1>
+                            <h1 class="carouselText1 animated fadeInUpBig">Thêm cho dương mặt loz !!! <span class="colortext">DTL PHONE</span></h1>
 						</div>
 						<div class="fadein scaleInv anim_1">
 							<p class="carouselText2 animated fadeInLeft">
