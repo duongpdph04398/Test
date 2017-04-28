@@ -47,7 +47,7 @@
             <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a class="page-scroll" href="#home">Trang Chủ</a>
                 </li>
-                <li><a class="page-scroll" href="#product">Danh Mục</a>
+                <li><a class="page-scroll" href="#product">Dương</a>
                 </li>
                 <li><a class="page-scroll" href="#gallery">Sản Phẩm</a>
                 </li>
