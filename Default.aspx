@@ -45,7 +45,7 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
            <div class="collapse navbar-collapse navbar-menubuilder" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li class="active"><a class="page-scroll" href="#home">Trang Chủ</a>
+                <li class="active"><a class="page-scroll" href="#home">Thành</a>
                 </li>
                 <li><a class="page-scroll" href="#product">Danh Mục</a>
                 </li>
