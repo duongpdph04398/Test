@@ -47,7 +47,7 @@
             <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a class="page-scroll" href="#home">Thành</a>
                 </li>
-                <li><a class="page-scroll" href="#product">Dương</a>
+                <li><a class="page-scroll" href="#product">LongML</a>
                 </li>
                 <li><a class="page-scroll" href="#gallery">Sản Phẩm</a>
                 </li>
