@@ -51,7 +51,7 @@
                 </li>
                 <li><a class="page-scroll" href="#gallery">Sản Phẩm</a>
                 </li>
-                <li><a class="page-scroll" href="#hoadon">Hóa Đơn</a>
+                <li><a class="page-scroll" href="#hoadon">Long</a>
                 </li>
                 <li><a class="page-scroll" href="#contact">Liên Hệ</a>
                 </li>
