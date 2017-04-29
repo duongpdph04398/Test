@@ -47,7 +47,7 @@
             <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a class="page-scroll" href="#home">Home web</a>
                 </li>
-                <li><a class="page-scroll" href="#product">Product price</a>
+                <li><a class="page-scroll" href="#product">Product</a>
                 </li>
                 <li><a class="page-scroll" href="#gallery">Sản Phẩm</a>
                 </li>
