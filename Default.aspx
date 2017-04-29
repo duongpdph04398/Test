@@ -47,7 +47,7 @@
             <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a class="page-scroll" href="#home">Trang chu</a>
                 </li>
-                <li><a class="page-scroll" href="#product">LongML</a>
+                <li><a class="page-scroll" href="#product">Product price</a>
                 </li>
                 <li><a class="page-scroll" href="#gallery">Sản Phẩm</a>
                 </li>
